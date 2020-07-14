@@ -6,7 +6,7 @@ Anaconda3
 python：3.6&3.7  
 TensorFlow：2.0.0   
 Pycharm：2018&2019&2020  
-Cuda: 10.0
+Cuda: 10.0   
 CuDNN：7.6.0&7.6.4
 
 ## 数据集
