@@ -2,7 +2,7 @@
 [深度学习语义分割实战（一）：SegNet](https://blog.csdn.net/wjinjie/article/details/107338470)
 
 ## 项目环境
-Anaconda3
+Anaconda3  
 python：3.6&3.7  
 TensorFlow：2.0.0   
 Pycharm：2018&2019&2020  
