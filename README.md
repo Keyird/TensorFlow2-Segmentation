@@ -1,11 +1,12 @@
-## Segmentation
+## TensorFLow2-Segmentation
 本专栏我将搭建一些经典的语义分割网路，用于对场景中的目标进行分割。具体算法原理和实现过程可参见我的中文博客。
 
 ## 中文博客
 [深度学习语义分割实战（一）：SegNet](https://blog.csdn.net/wjinjie/article/details/107338470)
 
 ## 项目进度
-SegNet(已完成)
+SegNet(已完成)  
+SegNet-MobileNet(已完成)
 
 ## 项目环境
 Anaconda3  
