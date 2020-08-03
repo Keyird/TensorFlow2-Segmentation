@@ -5,8 +5,8 @@
 [深度学习语义分割实战（一）：SegNet](https://blog.csdn.net/wjinjie/article/details/107338470)
 
 ## 项目进度
-SegNet(已完成)  
-SegNet-MobileNet(已完成)
+- SegNet(已完成)  
+- SegNet-MobileNet(已完成)
 
 ## 项目环境
 Anaconda3  
