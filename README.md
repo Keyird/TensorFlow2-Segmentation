@@ -9,11 +9,11 @@
 
 ## Environment
 - Anaconda3  
-- python：3.6 or 3.7  
+- python：3.6/3.7  
 - TensorFlow：2.0.0   
-- Pycharm：2018 or 2019 or 2020  
+- Pycharm：2018/2019/2020  
 - Cuda: 10.0   
-- CuDNN：7.6.0 or 7.6.4
+- CuDNN：7.6.0/7.6.4
 
 ## Dataset Annotation
 - 自制语义分割数据集：[labelme安装以及使用教程——自制语义分割数据集（保姆级示范）](https://blog.csdn.net/wjinjie/article/details/106735141)
