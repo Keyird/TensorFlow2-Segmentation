@@ -1,6 +1,6 @@
 ## TensorFLow2-Segmentation
 本专栏我将搭建一些经典的语义分割网路，用于对场景中的目标进行分割，具体算法原理和实现过程可参见我的中文博客：
-- [TensorFlow2深度学习实战（十三）：SegNet 语义分割算法源码解析](https://ai-wx.blog.csdn.net/article/details/107338470)
+- [TensorFlow2深度学习实战（十三）：语义分割网络 SegNet 源码解析](https://ai-wx.blog.csdn.net/article/details/107338470)
 - [TensorFlow2深度学习实战（十二）：语义分割网络 SegNet 论文解读](https://ai-wx.blog.csdn.net/article/details/106732783)
 
 ## Tasks
