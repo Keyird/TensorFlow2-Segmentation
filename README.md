@@ -18,3 +18,6 @@ CuDNN：7.6.0&7.6.4
 
 ## 数据集
 自制语义分割数据集：[labelme安装以及使用教程——自制语义分割数据集（保姆级示范）](https://blog.csdn.net/wjinjie/article/details/106735141)
+
+## 效果展示
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200714190057663.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dqaW5qaWU=,size_16,color_FFFFFF,t_70#pic_center)
